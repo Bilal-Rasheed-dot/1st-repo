@@ -1,2 +1,3 @@
 # 1st-repo
-this is my first repo
+This is my first repo
+My Name s Bilal Rasheed
